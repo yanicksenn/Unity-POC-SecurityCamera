@@ -1,6 +1,8 @@
 # POC Security Camera
 
-A proof of concept project that shows how in in-game security camera system could be built.
+![recording](https://raw.githubusercontent.com/yanicksenn/Unity-POC-SecurityCamera/cbac048bfbe05ba6439011641821628f2061aa1a/Img/recording.gif)   
+
+A proof of concept project that shows how an in-game security camera system could be built.
 
 ## Basic Idea
 
